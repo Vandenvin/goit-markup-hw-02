@@ -102,7 +102,7 @@ body {
     /* Добавить цвета текста лого */
 }
 .footer-adress{
-    color: var(--background-primary-color);
+    color: var(--text-third-white-color);
 }
 
 .footer-contact .link {
